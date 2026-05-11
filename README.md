@@ -1,28 +1,22 @@
 # BMI Calculator (Python Project)
 
 **Project Overview**  
-A simple interactive BMI calculator built with Python. Takes user input (name, weight, height), calculates BMI, and provides categorized health feedback.
+A simple interactive BMI calculator built with Python. Takes name, weight in pounds, and height in inches as input, calculates BMI using the imperial formula, and provides categorized health feedback.
 
 **Tools & Skills Used**
-- Python Basics
+- Python
 - User Input (`input()`)
 - Type Conversion (`int()`)
-- Arithmetic Calculations
-- Conditional Logic (`if`, `elif`, `else`)
-
-**Features**
-- BMI calculation using imperial formula
-- Multiple BMI categories (Underweight to Morbidly Obese)
-- Personalized output with user's name
-- Basic input handling
+- Arithmetic Operations
+- Conditional Logic (`if-elif-else`)
 
 **Screenshots**
 
-![BMI Calculator Code](bmi-calculator%202.png)
+![Full Code](python-bmi-calculator%201.png)
 
-![Normal Weight Example](bmi-calculator%201.png)
+![Normal Weight Example](python-bmi-calculator%202.png)
 
-![Obese Example](bmi-calculator%203.png)
+![Obese Example](python-bmi-calculator%203.png)
 
 **Project Files**
 - `bmi_calculator.py` → Main Python script
